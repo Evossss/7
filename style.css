@@ -1,0 +1,17 @@
+body{
+    background-image: url(K.jpg);
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 75px;
+}
+.img1{
+    display: inline-block;  
+    height:500px;
+}
+.img2{
+    height: 500px;
+    width: 300px;
+}
+
+
